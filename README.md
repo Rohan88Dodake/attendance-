@@ -1,2 +1,2 @@
 # attendance-
-attendance marker
+attendance management system
